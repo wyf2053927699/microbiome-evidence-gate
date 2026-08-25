@@ -44,10 +44,10 @@ Public third-party source data are not included. Their accession numbers and rol
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22089531. Zenodo will assign a separate version-specific DOI to v1.1.0 after this GitHub release is archived.
+Citation metadata are provided in `CITATION.cff`. Version 1.1.0 is archived at https://doi.org/10.5281/zenodo.22092200; the repository-wide concept DOI is https://doi.org/10.5281/zenodo.22089530. Version 1.0.0 remains archived at https://doi.org/10.5281/zenodo.22089531.
 
 ## Status
 
 - `v1.0.0`: released on 25 August 2026 and permanently archived at https://doi.org/10.5281/zenodo.22089531.
-- `v1.1.0`: adds the paired CRC taxon-metabolite analysis, external GCA host response, updated benchmark visualisation and bounded positive claim.
+- `v1.1.0`: adds the paired CRC taxon-metabolite analysis, external GCA host response, updated benchmark visualisation and bounded positive claim; archived at https://doi.org/10.5281/zenodo.22092200.
 
