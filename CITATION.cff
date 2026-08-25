@@ -6,6 +6,7 @@ version: 1.0.0
 date-released: 2026-08-25
 url: "https://github.com/wyf2053927699/microbiome-evidence-gate"
 repository-code: "https://github.com/wyf2053927699/microbiome-evidence-gate"
+doi: "10.5281/zenodo.22089531"
 license: MIT
 authors:
   - family-names: Wang

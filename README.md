@@ -36,9 +36,9 @@ Public third-party source data are not included. Their accession numbers and rol
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The version-specific Zenodo DOI will be added after the v1.0.0 archive is minted.
+Citation metadata are provided in `CITATION.cff`. The version-specific permanent archive is https://doi.org/10.5281/zenodo.22089531.
 
 ## Status
 
-`v1.0.0-rc1`: locally assembled and audited. Do not cite as a permanent release until the GitHub tag and Zenodo DOI are created.
+`v1.0.0`: released on 25 August 2026 and permanently archived at https://doi.org/10.5281/zenodo.22089531.
 
