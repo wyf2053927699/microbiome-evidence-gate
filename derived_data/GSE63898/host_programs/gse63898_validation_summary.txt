@@ -1,0 +1,10 @@
+GSE63898 independent host-program validation
+Expression probes: 49386
+Samples: 396 (HCC=228, cirrhosis=168)
+Unambiguous genes after median probe collapse: 18448
+Processing-plate levels: 6
+Primary programmes with plate-adjusted BH q<0.05: 4/4
+Primary programmes meeting strict three-dataset directional replication: 3/4
+Axis-sensitivity programmes with plate-adjusted BH q<0.05: 4/6
+Contrast: primary HCC tissue versus non-tumour cirrhotic tissue.
+Interpretation boundary: this bulk-tissue contrast validates host programmes; it does not establish microbial causality.

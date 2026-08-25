@@ -1,0 +1,7 @@
+"cohort","n_samples","n_patients"
+"Cases",30,17
+"Cases-24M",16,13
+"Cases-24M Cases-12M",12,10
+"Cases-24M Cases-12M Cases-6M",30,21
+"Cases-T",34,8
+"Controls",490,165

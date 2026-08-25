@@ -1,0 +1,237 @@
+{
+  "B|hepatocyte_bile_acid_synthesis_transport": [],
+  "B|hepatocyte_bile_acid_receptor_response": [],
+  "B|nonparenchymal_gpar1": [],
+  "B|ahr_aromatic_response": [
+    "ARNT",
+    "TDO2"
+  ],
+  "B|choline_phospholipid_metabolism": [
+    "CHKB",
+    "PCYT1A",
+    "PEMT",
+    "GPCPD1",
+    "LPCAT1",
+    "SLC44A1"
+  ],
+  "B|type_i_interferon_response": [
+    "STAT1",
+    "STAT2",
+    "IRF7",
+    "ISG15",
+    "MX1",
+    "OAS1",
+    "IFI6",
+    "IFI27"
+  ],
+  "B|cell_cycle": [
+    "PCNA"
+  ],
+  "Endothelial|hepatocyte_bile_acid_synthesis_transport": [],
+  "Endothelial|hepatocyte_bile_acid_receptor_response": [],
+  "Endothelial|nonparenchymal_gpar1": [],
+  "Endothelial|ahr_aromatic_response": [
+    "AHR",
+    "ARNT",
+    "CYP1B1",
+    "TDO2"
+  ],
+  "Endothelial|choline_phospholipid_metabolism": [
+    "CHKA",
+    "CHKB",
+    "PCYT1A",
+    "PEMT",
+    "GPCPD1",
+    "LPCAT1",
+    "LPCAT2",
+    "SLC44A1"
+  ],
+  "Endothelial|type_i_interferon_response": [
+    "STAT1",
+    "STAT2",
+    "IRF7",
+    "ISG15",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "MX1",
+    "OAS1",
+    "OAS2",
+    "IFI6",
+    "IFI27"
+  ],
+  "Endothelial|cell_cycle": [
+    "PCNA",
+    "CDK1"
+  ],
+  "Fibroblast|hepatocyte_bile_acid_synthesis_transport": [],
+  "Fibroblast|hepatocyte_bile_acid_receptor_response": [],
+  "Fibroblast|nonparenchymal_gpar1": [
+    "GPBAR1"
+  ],
+  "Fibroblast|ahr_aromatic_response": [
+    "AHR",
+    "ARNT",
+    "CYP1B1",
+    "TDO2"
+  ],
+  "Fibroblast|choline_phospholipid_metabolism": [
+    "CHKB",
+    "PCYT1A",
+    "PEMT",
+    "GPCPD1",
+    "LPCAT1",
+    "LPCAT2",
+    "SLC44A1"
+  ],
+  "Fibroblast|type_i_interferon_response": [
+    "STAT1",
+    "STAT2",
+    "IRF7",
+    "ISG15",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "MX1",
+    "OAS1",
+    "IFI6",
+    "IFI27"
+  ],
+  "Fibroblast|cell_cycle": [
+    "PCNA"
+  ],
+  "Hepatocyte|hepatocyte_bile_acid_synthesis_transport": [
+    "CYP8B1",
+    "CYP27A1",
+    "BAAT",
+    "SLC10A1",
+    "ABCC2",
+    "ABCC3",
+    "SLC51A",
+    "NR1H4"
+  ],
+  "Hepatocyte|hepatocyte_bile_acid_receptor_response": [
+    "NR1H4",
+    "KLB",
+    "FGFR4",
+    "NR0B2"
+  ],
+  "Hepatocyte|nonparenchymal_gpar1": [],
+  "Hepatocyte|ahr_aromatic_response": [
+    "AHR",
+    "ARNT",
+    "TDO2"
+  ],
+  "Hepatocyte|choline_phospholipid_metabolism": [
+    "CHKA",
+    "CHKB",
+    "PCYT1A",
+    "PEMT",
+    "GPCPD1",
+    "LPCAT1",
+    "SLC44A1"
+  ],
+  "Hepatocyte|type_i_interferon_response": [
+    "STAT1",
+    "STAT2",
+    "IRF7",
+    "ISG15",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "MX1",
+    "OAS1",
+    "IFI6",
+    "IFI27"
+  ],
+  "Hepatocyte|cell_cycle": [
+    "MKI67",
+    "PCNA",
+    "TOP2A",
+    "CDK1",
+    "CCNB1",
+    "CCNB2",
+    "AURKB"
+  ],
+  "Myeloid|hepatocyte_bile_acid_synthesis_transport": [],
+  "Myeloid|hepatocyte_bile_acid_receptor_response": [],
+  "Myeloid|nonparenchymal_gpar1": [
+    "GPBAR1"
+  ],
+  "Myeloid|ahr_aromatic_response": [
+    "AHR",
+    "ARNT",
+    "CYP1B1",
+    "IDO1",
+    "TDO2"
+  ],
+  "Myeloid|choline_phospholipid_metabolism": [
+    "CHKA",
+    "CHKB",
+    "PCYT1A",
+    "PEMT",
+    "GPCPD1",
+    "LPCAT1",
+    "LPCAT2",
+    "SLC44A1"
+  ],
+  "Myeloid|type_i_interferon_response": [
+    "STAT1",
+    "STAT2",
+    "IRF7",
+    "ISG15",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "MX1",
+    "OAS1",
+    "OAS2",
+    "IFI6",
+    "IFI27"
+  ],
+  "Myeloid|cell_cycle": [
+    "PCNA",
+    "TOP2A",
+    "CDK1"
+  ],
+  "T/NK|hepatocyte_bile_acid_synthesis_transport": [],
+  "T/NK|hepatocyte_bile_acid_receptor_response": [],
+  "T/NK|nonparenchymal_gpar1": [],
+  "T/NK|ahr_aromatic_response": [
+    "AHR",
+    "ARNT",
+    "TDO2"
+  ],
+  "T/NK|choline_phospholipid_metabolism": [
+    "CHKA",
+    "CHKB",
+    "PCYT1A",
+    "PEMT",
+    "GPCPD1",
+    "LPCAT1",
+    "SLC44A1"
+  ],
+  "T/NK|type_i_interferon_response": [
+    "STAT1",
+    "STAT2",
+    "IRF7",
+    "ISG15",
+    "IFIT1",
+    "IFIT2",
+    "IFIT3",
+    "MX1",
+    "OAS1",
+    "OAS2",
+    "IFI6",
+    "IFI27"
+  ],
+  "T/NK|cell_cycle": [
+    "MKI67",
+    "PCNA",
+    "TOP2A",
+    "CDK1",
+    "CCNB1",
+    "CCNB2",
+    "AURKB"
+  ]
+}

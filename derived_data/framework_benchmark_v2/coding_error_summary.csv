@@ -1,0 +1,17 @@
+﻿per_dimension_coding_error,workflow,mean_false_promotion_near_boundary,false_stop_complete_case,interpretation
+0.01,any_positive,1.0,0.0,specification-conformance trade-off; not clinical accuracy
+0.01,majority_dimensions,1.0,0.0,specification-conformance trade-off; not clinical accuracy
+0.01,additive_score_ge_0_5,1.0,0.0,specification-conformance trade-off; not clinical accuracy
+0.01,noncompensatory_all_complete,0.009325,0.07079999999999997,specification-conformance trade-off; not clinical accuracy
+0.05,any_positive,1.0,0.0,specification-conformance trade-off; not clinical accuracy
+0.05,majority_dimensions,0.9999374999999999,0.0,specification-conformance trade-off; not clinical accuracy
+0.05,additive_score_ge_0_5,0.9999374999999999,0.0,specification-conformance trade-off; not clinical accuracy
+0.05,noncompensatory_all_complete,0.0353375,0.33320000000000005,specification-conformance trade-off; not clinical accuracy
+0.1,any_positive,1.0,0.0,specification-conformance trade-off; not clinical accuracy
+0.1,majority_dimensions,0.99735,0.0004999999999999449,specification-conformance trade-off; not clinical accuracy
+0.1,additive_score_ge_0_5,0.99735,0.0004999999999999449,specification-conformance trade-off; not clinical accuracy
+0.1,noncompensatory_all_complete,0.046712500000000004,0.5645,specification-conformance trade-off; not clinical accuracy
+0.2,any_positive,0.9999875,0.0,specification-conformance trade-off; not clinical accuracy
+0.2,majority_dimensions,0.9730375,0.01100000000000001,specification-conformance trade-off; not clinical accuracy
+0.2,additive_score_ge_0_5,0.9730375,0.01100000000000001,specification-conformance trade-off; not clinical accuracy
+0.2,noncompensatory_all_complete,0.0413125,0.8335,specification-conformance trade-off; not clinical accuracy

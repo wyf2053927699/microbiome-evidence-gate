@@ -1,0 +1,54 @@
+{
+  "mixed_model_fdr_corrections": [
+    {
+      "file": "all_pre_hcc_provided_area_mixed_models.csv",
+      "converged": 1030,
+      "q_group_lt_0_05_after_convergence_filter": 1
+    },
+    {
+      "file": "all_pre_hcc_sample_median_scaled_mixed_models.csv",
+      "converged": 959,
+      "q_group_lt_0_05_after_convergence_filter": 19
+    },
+    {
+      "file": "within_12m_provided_area_mixed_models.csv",
+      "converged": 1015,
+      "q_group_lt_0_05_after_convergence_filter": 0
+    },
+    {
+      "file": "within_12m_sample_median_scaled_mixed_models.csv",
+      "converged": 955,
+      "q_group_lt_0_05_after_convergence_filter": 6
+    }
+  ],
+  "gee_runs": [
+    {
+      "file": "all_pre_hcc_provided_area_gee_models.csv",
+      "features_tested": 1258,
+      "models_converged": 1258,
+      "q_group_lt_0_05": 4,
+      "nominal_p_group_lt_0_05": 146
+    },
+    {
+      "file": "all_pre_hcc_sample_median_scaled_gee_models.csv",
+      "features_tested": 1258,
+      "models_converged": 1258,
+      "q_group_lt_0_05": 17,
+      "nominal_p_group_lt_0_05": 181
+    },
+    {
+      "file": "within_12m_provided_area_gee_models.csv",
+      "features_tested": 1257,
+      "models_converged": 1257,
+      "q_group_lt_0_05": 8,
+      "nominal_p_group_lt_0_05": 137
+    },
+    {
+      "file": "within_12m_sample_median_scaled_gee_models.csv",
+      "features_tested": 1257,
+      "models_converged": 1257,
+      "q_group_lt_0_05": 22,
+      "nominal_p_group_lt_0_05": 189
+    }
+  ]
+}

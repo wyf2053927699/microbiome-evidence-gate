@@ -1,0 +1,4 @@
+﻿program,paired_donors,mean_tumor_minus_normal,median_tumor_minus_normal,exact_signflip_p,minimum_attainable_two_sided_p,exact_signflip_q_three_programs
+TLR4_NFKB_inflammatory_response,7,0.303362688103266,0.2825258581631295,0.03125,0.015625,0.09375
+epithelial_EMT_barrier_response,7,0.2807493283961102,0.33925856054608616,0.078125,0.015625,0.1171875
+autophagy_stress_response,7,0.09128997339025878,0.08985228402494194,0.703125,0.015625,0.703125

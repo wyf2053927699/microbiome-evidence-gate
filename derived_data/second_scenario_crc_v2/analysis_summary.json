@@ -1,0 +1,39 @@
+{
+  "analysis_version": "CRC leakage-free validation v2",
+  "source": "01_raw_data\\second_scenario_candidates\\CRC_Yachida2019\\41591_2019_458_MOESM3_ESM.xlsx",
+  "source_sha256": "a43766d21a09127563c9f319a10800629004fc55d36c1dab90ea05b87a6b7fb3",
+  "independent_unit": "participant",
+  "n_complete_overlap": 277,
+  "split_counts": {
+    "discovery|Healthy": 76,
+    "discovery|Stage_0": 16,
+    "discovery|Stage_III_IV": 32,
+    "discovery|Stage_I_II": 41,
+    "validation|Healthy": 51,
+    "validation|Stage_0": 11,
+    "validation|Stage_III_IV": 22,
+    "validation|Stage_I_II": 28
+  },
+  "filtering": "discovery-only prevalence",
+  "validation_family": "discovery candidates only",
+  "validation_multiplicity": "Benjamini-Hochberg q < 0.05",
+  "full_cohort_role": "descriptive only; excluded from replication decision",
+  "feature_counts": {
+    "species_eligible_discovery": 219,
+    "species_candidates": 6,
+    "species_heldout_reproduced": 4,
+    "KO_eligible_discovery": 5141,
+    "KO_candidates": 0,
+    "KO_heldout_reproduced": 0,
+    "metabolite_eligible_discovery": 299,
+    "metabolite_candidates": 7,
+    "metabolite_heldout_reproduced": 0
+  },
+  "species_hits": [
+    "Peptostreptococcus stomatis",
+    "Parvimonas unclassified",
+    "Gemella morbillorum",
+    "Fusobacterium nucleatum"
+  ],
+  "claim_boundary": "internal held-out consistency; not independent-cohort replication or causality"
+}

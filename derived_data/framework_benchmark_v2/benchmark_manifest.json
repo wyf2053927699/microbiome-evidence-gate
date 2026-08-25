@@ -1,0 +1,11 @@
+{
+  "benchmark_version": "v2 boundary and coding-error stress test",
+  "previous_floor_effect_removed": true,
+  "bidirectional_transitions": 2048,
+  "coding_error_simulations": 1440000,
+  "external_truth_available": false,
+  "inter_rater_agreement": "UNMEASURED; requires independent human coders",
+  "permitted_conclusion": "framework executability, decision-boundary behaviour and specification-conformance trade-offs",
+  "forbidden_conclusion": "validated clinical accuracy, biological truth or universal cross-disease portability",
+  "crc_complete_axes": 0
+}

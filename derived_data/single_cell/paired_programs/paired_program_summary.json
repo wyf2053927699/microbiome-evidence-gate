@@ -1,0 +1,15 @@
+{
+  "groups_after_cell_threshold": 101,
+  "paired_patients_by_celltype": {
+    "B": 8,
+    "Endothelial": 6,
+    "Fibroblast": 6,
+    "Hepatocyte": 8,
+    "Myeloid": 8,
+    "T/NK": 8
+  },
+  "program_tests": 22,
+  "program_q_lt_0_05": 3,
+  "gene_tests": 164,
+  "gene_q_lt_0_05": 20
+}

@@ -1,0 +1,50 @@
+{
+  "dataset": "GSE200997",
+  "genes_scanned": 23828,
+  "cells": 49859,
+  "annotated_cell_type_field_available": false,
+  "aggregation": "raw UMI summed by donor and condition across the whole atlas",
+  "normalization": "log1p CPM followed by gene-wise z score and frozen programme mean",
+  "independent_unit": "paired donor",
+  "paired_donors": 7,
+  "programs_q_lt_0_05": 0,
+  "gate_state": "PARTIAL",
+  "claim_class": "donor-level whole-atlas host support; not cell-type or spatial localisation",
+  "composition_boundary": "cell-type composition cannot be separated because the supplied annotation has no cell-type field",
+  "program_coverage": {
+    "TLR4_NFKB_inflammatory_response": [
+      "TLR4",
+      "MYD88",
+      "IRAK1",
+      "TRAF6",
+      "NFKB1",
+      "RELA",
+      "NFKBIA",
+      "TNF",
+      "IL6",
+      "CXCL8",
+      "PTGS2",
+      "BIRC3"
+    ],
+    "epithelial_EMT_barrier_response": [
+      "CDH1",
+      "OCLN",
+      "TJP1",
+      "CLDN1",
+      "VIM",
+      "SNAI1",
+      "SNAI2",
+      "ZEB1",
+      "ZEB2",
+      "MMP9"
+    ],
+    "autophagy_stress_response": [
+      "ATG5",
+      "ATG7",
+      "BECN1",
+      "MAP1LC3B",
+      "SQSTM1",
+      "ULK1"
+    ]
+  }
+}

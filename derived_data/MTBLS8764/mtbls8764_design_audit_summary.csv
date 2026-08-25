@@ -1,0 +1,17 @@
+"metric","value"
+"n_samples",612
+"n_patients",203
+"n_developed_hcc_samples",122
+"n_control_samples",490
+"n_developed_hcc_patients",38
+"n_control_patients",165
+"median_samples_per_patient",2
+"min_samples_per_patient",1
+"max_samples_per_patient",11
+"n_metabolites",1262
+"n_metabolites_with_any_curated_id",1232
+"n_metabolites_missing_fraction_le_0.20",864
+"n_patient_outcome_inconsistencies",0
+"n_patients_with_multiple_case_window_labels",14
+"n_patient_gender_inconsistencies",0
+"all_sample_sets_align",1

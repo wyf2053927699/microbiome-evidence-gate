@@ -1,0 +1,14 @@
+scenario,accession_or_source,layer,role,unit,redistribution
+HCC,PRJNA784025,faecal microbiome,discovery and temporal validation,participant,not redistributed; obtain from original repository
+HCC,PRJEB54571,faecal microbiome,external microbiome comparison,participant,not redistributed; obtain from original repository
+HCC,MTBLS8764,plasma metabolomics,longitudinal metabolite analysis,participant/sample,not redistributed; obtain from MetaboLights
+HCC,ST001152,liver metabolomics,paired cross-specimen comparison,matched participant pair,not redistributed; obtain from Metabolomics Workbench
+HCC,TCGA-LIHC,bulk liver transcriptomics,host-programme analysis,participant,not redistributed; obtain from the NCI Genomic Data Commons
+HCC,GSE63898,bulk liver transcriptomics,independent host-programme validation,participant,not redistributed; obtain from GEO
+HCC,GSE149614,single-cell RNA sequencing,donor-aware paired pseudobulk,donor,not redistributed; obtain from GEO
+HCC,PRJNA647523,faecal microbiome,publication-level context only,publication,not redistributed
+CRC,Yachida et al. 2019 supplementary workbook,species/orthologue/faecal metabolite,discovery and internal held-out validation,participant,not redistributed; obtain from publisher article
+CRC,GSE74602,bulk colorectal transcriptomics,host-programme component validation,participant,not redistributed; obtain from GEO
+CRC,GSE39582,bulk colorectal transcriptomics,independent bulk host-programme validation,participant,not redistributed; obtain from GEO
+CRC,GSE200997,single-cell RNA sequencing,whole-atlas donor pseudobulk,donor,not redistributed; obtain from GEO
+

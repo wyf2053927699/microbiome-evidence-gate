@@ -1,0 +1,9 @@
+﻿case,partial_dimension,reference_claim_class,any_positive,majority_dimensions,additive_score_ge_0_5,noncompensatory_all_complete
+single_partial__microbial_reproducibility,microbial_reproducibility,uncertain-not-eligible,1,1,1,0
+single_partial__human_metabolite_observed,human_metabolite_observed,uncertain-not-eligible,1,1,1,0
+single_partial__microbe_metabolite_link,microbe_metabolite_link,uncertain-not-eligible,1,1,1,0
+single_partial__metabolite_target_link,metabolite_target_link,uncertain-not-eligible,1,1,1,0
+single_partial__host_reproduced_two_datasets,host_reproduced_two_datasets,uncertain-not-eligible,1,1,1,0
+single_partial__single_cell_localisation,single_cell_localisation,uncertain-not-eligible,1,1,1,0
+single_partial__major_contradiction_resolved,major_contradiction_resolved,uncertain-not-eligible,1,1,1,0
+single_partial__robust_to_analytic_choices,robust_to_analytic_choices,uncertain-not-eligible,1,1,1,0

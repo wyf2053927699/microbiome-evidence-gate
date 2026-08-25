@@ -1,0 +1,4 @@
+﻿candidate_family,microbial_reproducibility,human_metabolite_observed,microbe_metabolite_link,metabolite_target_link,host_reproduced_two_datasets,single_cell_localisation,major_contradiction_resolved,robust_to_analytic_choices,complete_dimensions,partial_dimensions,any_positive,majority_dimensions,additive_score_ge_0_5,noncompensatory_all_complete,claim_class
+Oral-anaerobe inflammatory-response case,1.0,0.0,0.0,0.0,0.0,0.5,0.0,1.0,2,1,1,0,0,0,NO-GO
+Fusobacterium-autophagy case,1.0,0.0,0.0,0.0,1.0,0.5,1.0,1.0,4,1,1,1,1,0,NO-GO
+Oral-anaerobe EMT-barrier case,1.0,0.0,0.0,0.0,0.0,0.5,0.0,1.0,2,1,1,0,0,0,NO-GO

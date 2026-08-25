@@ -1,0 +1,47 @@
+"dataset","specimen","design","contrast","metabolite","effect","effect_measure","q_value","identification_tier","direct_cirrhosis_contrast"
+"MTBLS8764","serial_plasma","prospective_longitudinal","all_pre_hcc","taurocholate",1.72652729124078,"GEE_log2_group_beta",0.0644992863840137,"repository_named_metabolite",TRUE
+"MTBLS8764","serial_plasma","prospective_longitudinal","all_pre_hcc","N-acetylglycine",-0.675751726264091,"GEE_log2_group_beta",0.0186930500373579,"repository_named_metabolite",TRUE
+"MTBLS8764","serial_plasma","prospective_longitudinal","all_pre_hcc","gamma-glutamyltryptophan",0.530150778169009,"GEE_log2_group_beta",0.0646009313044567,"repository_named_metabolite",TRUE
+"MTBLS8764","serial_plasma","prospective_longitudinal","within_12m","N-acetylglycine",-0.749248726746145,"GEE_log2_group_beta",0.0326570058969598,"repository_named_metabolite",TRUE
+"MTBLS8764","serial_plasma","prospective_longitudinal","within_12m","1-palmitoleoyl-GPC (16:1)*",-0.561695934748217,"GEE_log2_group_beta",0.0961226461829578,"repository_named_metabolite",TRUE
+"MTBLS8764","serial_plasma","prospective_longitudinal","within_12m","taurocholenate sulfate*",1.13739234154176,"GEE_log2_group_beta",0.0514949777984305,"repository_named_metabolite",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","lactic acid",0.333526886381245,"median_paired_log2_difference",0.00386961943769037,"putative_level_2_GC_library_RI",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","lactic acid",0.197372294670641,"median_paired_log2_difference",0.873431579470848,"putative_level_2_GC_library_RI",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","adenosine monophosphate",-0.113296232058778,"median_paired_log2_difference",NA,"level_1_authentic_standard",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","adenosine monophosphate",NA,"median_paired_log2_difference",NA,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","glucose",-1.34755513123408,"median_paired_log2_difference",0.214125795177531,"putative_level_2_GC_library_RI",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","glucose",-1.73375580367261,"median_paired_log2_difference",8.94795776337591e-06,"putative_level_2_GC_library_RI",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","malic acid",-1.32723102816812,"median_paired_log2_difference",8.94795776337591e-06,"putative_level_2_GC_library_RI",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","malic acid",-1.25839668915068,"median_paired_log2_difference",0.214125795177531,"putative_level_2_GC_library_RI",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","fumaric acid",-2.06878102230486,"median_paired_log2_difference",8.94795776337591e-06,"putative_level_2_GC_library_RI",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","fumaric acid",-1.5416811614872,"median_paired_log2_difference",0.214125795177531,"putative_level_2_GC_library_RI",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","succinic acid",-1.09829151041137,"median_paired_log2_difference",0.265755244562234,"putative_level_2_GC_library_RI",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","succinic acid",-1.36887730521788,"median_paired_log2_difference",8.94795776337591e-06,"putative_level_2_GC_library_RI",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","hypoxanthine",1.0330214309773,"median_paired_log2_difference",NA,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","hypoxanthine",0.775256994555003,"median_paired_log2_difference",NA,"level_1_authentic_standard",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","xanthosine",-1.55338672441766,"median_paired_log2_difference",NA,"level_1_authentic_standard",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","xanthosine",-1.57301672794492,"median_paired_log2_difference",NA,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","propionylcarnitine",-2.63537392802586,"median_paired_log2_difference",0.109659850664997,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","propionylcarnitine",-2.27068183165049,"median_paired_log2_difference",5.9385207718388e-06,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","glycerophosphocholine",-1.38341493778811,"median_paired_log2_difference",0.109659850664997,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","glycerophosphocholine",-1.69090102859952,"median_paired_log2_difference",3.69357838615636e-05,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","PC(34:2)",-0.6314487634464,"median_paired_log2_difference",NA,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","PC(34:2)",-0.67593239696736,"median_paired_log2_difference",NA,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","PC(36:1)",0.954224047487326,"median_paired_log2_difference",NA,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","PC(36:1)",1.03185530925676,"median_paired_log2_difference",NA,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","PC(38:3)",2.0146440827252,"median_paired_log2_difference",NA,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","PC(38:3)",2.39550833003137,"median_paired_log2_difference",NA,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","PC(38:2)",0.766027453389874,"median_paired_log2_difference",NA,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","PC(38:2)",0.914379907654901,"median_paired_log2_difference",NA,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","hypoxanthine",0.737373965904525,"median_paired_log2_difference",0.215778441180848,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","hypoxanthine",0.737373965904525,"median_paired_log2_difference",0.00577057016706695,"level_1_authentic_standard",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","glycerol 3-phosphate",-1.19084440079233,"median_paired_log2_difference",0.218382437649097,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","glycerol 3-phosphate",-1.73487376895214,"median_paired_log2_difference",3.32806918358382e-05,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","glycerylphosphorylethanolamine",-1.84336445291901,"median_paired_log2_difference",3.62703387162847e-05,"putative_level_2_MS2",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","glycerylphosphorylethanolamine",-1.94620481099853,"median_paired_log2_difference",0.215778441180848,"putative_level_2_MS2",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","linoleic acid",-1.04544872352283,"median_paired_log2_difference",8.32579515565637e-05,"level_1_authentic_standard",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","linoleic acid",-1.35368422893321,"median_paired_log2_difference",0.30332979745613,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","xanthosine",-0.936575456858722,"median_paired_log2_difference",0.282115137421938,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","xanthosine",-1.50197846923369,"median_paired_log2_difference",4.45192246849668e-05,"level_1_authentic_standard",FALSE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_cirrhotic_adjacent","adenosine monophosphate",-1.67769802428612,"median_paired_log2_difference",NA,"level_1_authentic_standard",TRUE
+"ST001152","liver_tissue","patient_paired","paired_HCC_vs_all_adjacent","adenosine monophosphate",-1.39154569619709,"median_paired_log2_difference",NA,"level_1_authentic_standard",FALSE

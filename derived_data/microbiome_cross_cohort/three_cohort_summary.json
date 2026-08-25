@@ -1,0 +1,12 @@
+{
+  "harmonised_genera": 70,
+  "discovery_selected_common_genera": 44,
+  "locked_temporal_validation_pass": 30,
+  "external_age_adjusted_three_stage_pass": 0,
+  "three_cohort_direction_concordant": 25,
+  "external_comparator_warning": "PRJEB54571 has 95 HCC and 10 cirrhosis participants; treat as robustness, not equal-weight discovery.",
+  "prespecified_missing_from_external_filtered_table": [
+    "Veillonella",
+    "Megasphaera"
+  ]
+}

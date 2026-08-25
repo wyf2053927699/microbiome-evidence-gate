@@ -1,0 +1,12 @@
+﻿data_type,metadata_rows,unique_participants
+biopsy_16S,178,81
+host_genome,92,92
+host_transcriptomics,252,90
+metabolomics,546,106
+metagenomics,1638,130
+metatranscriptomics,835,109
+methylome,449,94
+proteomics,450,89
+serology,210,67
+stool_16S,180,36
+viromics,703,105

@@ -1,0 +1,38 @@
+[
+  {
+    "pseudocount_on_counts": 0.1,
+    "harmonised_genera": 70,
+    "discovery_q_lt_0_10": 45,
+    "locked_validation_pass": 31,
+    "external_age_adjusted_pass": 0,
+    "three_cohort_direction_concordant": 26,
+    "full_modified_hksj_p_lt_0_05": 10,
+    "conventional_dl_all_omissions_p_lt_0_05": 13,
+    "modified_hksj_all_omissions_p_lt_0_05": 0,
+    "conventional_dl_omission_stable_genera": "Anaerostipes;Bifidobacterium;Dorea;Flavonifractor;Lachnospiraceae ND3007 group;Ligilactobacillus;Limosilactobacillus;NK4A214 group;Paraprevotella;Ruminococcus;[Eubacterium] ruminantium group;[Eubacterium] ventriosum group;[Eubacterium] xylanophilum group"
+  },
+  {
+    "pseudocount_on_counts": 0.5,
+    "harmonised_genera": 70,
+    "discovery_q_lt_0_10": 44,
+    "locked_validation_pass": 30,
+    "external_age_adjusted_pass": 0,
+    "three_cohort_direction_concordant": 25,
+    "full_modified_hksj_p_lt_0_05": 9,
+    "conventional_dl_all_omissions_p_lt_0_05": 13,
+    "modified_hksj_all_omissions_p_lt_0_05": 0,
+    "conventional_dl_omission_stable_genera": "Anaerostipes;Bifidobacterium;Lachnospiraceae ND3007 group;Lachnospiraceae NK4A136 group;Lachnospiraceae UCG-010;Ligilactobacillus;Limosilactobacillus;NK4A214 group;Paraprevotella;UCG-005;[Eubacterium] ruminantium group;[Eubacterium] ventriosum group;[Eubacterium] xylanophilum group"
+  },
+  {
+    "pseudocount_on_counts": 1.0,
+    "harmonised_genera": 70,
+    "discovery_q_lt_0_10": 43,
+    "locked_validation_pass": 30,
+    "external_age_adjusted_pass": 0,
+    "three_cohort_direction_concordant": 24,
+    "full_modified_hksj_p_lt_0_05": 8,
+    "conventional_dl_all_omissions_p_lt_0_05": 14,
+    "modified_hksj_all_omissions_p_lt_0_05": 0,
+    "conventional_dl_omission_stable_genera": "Anaerostipes;Bifidobacterium;Coprococcus;Lachnospiraceae ND3007 group;Lachnospiraceae NK4A136 group;Lachnospiraceae UCG-010;Ligilactobacillus;Limosilactobacillus;NK4A214 group;Paraprevotella;UCG-005;[Eubacterium] ruminantium group;[Eubacterium] ventriosum group;[Eubacterium] xylanophilum group"
+  }
+]

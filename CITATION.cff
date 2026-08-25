@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived data, please cite this archived release and the associated article."
+title: "Microbiome Evidence-Gate Framework"
+type: software
+version: 1.0.0
+date-released: 2026-08-25
+url: "https://github.com/wyf2053927699/microbiome-evidence-gate"
+repository-code: "https://github.com/wyf2053927699/microbiome-evidence-gate"
+license: MIT
+authors:
+  - family-names: Wang
+    given-names: Yifei
+  - family-names: Ma
+    given-names: Lulan
+  - family-names: Hu
+    given-names: Jiangshan
+  - family-names: Liu
+    given-names: Yanqiu
+  - family-names: Zhao
+    given-names: Bonian
+  - family-names: Gao
+    given-names: Yan
+keywords:
+  - microbiome
+  - multi-omics
+  - evidence gate
+  - reproducibility
+  - hepatocellular carcinoma
+  - colorectal cancer
+

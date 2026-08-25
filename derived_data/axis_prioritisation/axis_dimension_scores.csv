@@ -1,0 +1,5 @@
+candidate_family,microbial_reproducibility,human_metabolite_observed,microbe_metabolite_link,metabolite_target_link,host_reproduced_two_datasets,single_cell_localisation,major_contradiction_resolved,robust_to_analytic_choices,essential_gate_pass
+"Bile-acid transformation and FXR signalling",0.5,1.0,0.25,0.5,0.25,0.0,0.0,0.5,0
+"Aromatic microbial metabolites and AHR/inflammatory signalling",0.0,0.75,0.25,0.25,0.25,0.0,0.0,0.5,0
+"Tryptophan-derived indoles and AHR signalling",0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0
+"Choline/acyl-choline metabolism and immune lipid handling",0.0,0.75,0.25,0.25,0.0,0.0,0.0,0.5,0

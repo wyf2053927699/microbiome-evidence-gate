@@ -1,0 +1,9 @@
+"metric","value"
+"n_cells",71915
+"n_patients",10
+"n_samples",21
+"n_sites",4
+"n_celltype_classes",6
+"n_patients_with_tumor",10
+"n_patients_with_non_tumor",8
+"n_patients_with_both_tumor_and_non_tumor",8

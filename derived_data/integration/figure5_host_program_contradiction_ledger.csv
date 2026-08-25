@@ -1,0 +1,5 @@
+"program","all_three_q_lt_0_05","direction_concordant_all_three","disposition","reason"
+"cell_division",TRUE,TRUE,"strict_replication","direction and adjusted significance reproduced"
+"respiratory_electron_transport_chain",TRUE,FALSE,"significant_but_directionally_contradictory","directions: PRJEB54571=lower_in_HCC; TCGA-LIHC=higher_in_HCC; GSE63898=higher_in_HCC"
+"ribosome_biogenesis",TRUE,TRUE,"strict_replication","direction and adjusted significance reproduced"
+"type_I_interferon_response",TRUE,TRUE,"strict_replication","direction and adjusted significance reproduced"

@@ -1,0 +1,8 @@
+ST001152 paired tissue-metabolomics checkpoint
+Platforms: 3
+Raw features: 3606
+Features passing all-pair QC: 615
+Features passing cirrhosis-pair QC: 613
+FDR-significant eligible feature-contrast rows: 266
+All quantitative features remain unidentified m/z-RT signals pending independent annotation evidence.
+Tissue changes do not establish gut microbial origin.

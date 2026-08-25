@@ -1,0 +1,25 @@
+﻿feature,group,n,prevalence,median,q1,q3
+Peptostreptococcus stomatis,Healthy,127,0.13385826771653545,0.0,0.0,0.0
+Peptostreptococcus stomatis,Stage_0,27,0.25925925925925924,0.0,0.0,0.000195
+Peptostreptococcus stomatis,Stage_III_IV,54,0.5925925925925926,0.015165000000000001,0.0,0.06747
+Peptostreptococcus stomatis,Stage_I_II,69,0.42028985507246375,0.0,0.0,0.02716
+Parvimonas unclassified,Healthy,127,0.23622047244094488,0.0,0.0,0.0
+Parvimonas unclassified,Stage_0,27,0.4074074074074074,0.0,0.0,0.002325
+Parvimonas unclassified,Stage_III_IV,54,0.7037037037037037,0.010025,0.0,0.10564
+Parvimonas unclassified,Stage_I_II,69,0.42028985507246375,0.0,0.0,0.02201
+Gemella morbillorum,Healthy,127,0.07086614173228346,0.0,0.0,0.0
+Gemella morbillorum,Stage_0,27,0.14814814814814814,0.0,0.0,0.0
+Gemella morbillorum,Stage_III_IV,54,0.46296296296296297,0.0,0.0,0.0173075
+Gemella morbillorum,Stage_I_II,69,0.30434782608695654,0.0,0.0,0.00305
+Fusobacterium nucleatum,Healthy,127,0.11023622047244094,0.0,0.0,0.0
+Fusobacterium nucleatum,Stage_0,27,0.18518518518518517,0.0,0.0,0.0
+Fusobacterium nucleatum,Stage_III_IV,54,0.5,0.00071,0.0,0.03605
+Fusobacterium nucleatum,Stage_I_II,69,0.391304347826087,0.0,0.0,0.00951
+Solobacterium moorei,Healthy,127,0.4251968503937008,0.0,0.0,0.004555
+Solobacterium moorei,Stage_0,27,0.6296296296296297,0.00493,0.0,0.00897
+Solobacterium moorei,Stage_III_IV,54,0.6851851851851852,0.004285,0.0,0.01299
+Solobacterium moorei,Stage_I_II,69,0.5652173913043478,0.00128,0.0,0.02887
+Actinomyces odontolyticus,Healthy,127,0.3464566929133858,0.0,0.0,0.0022700000000000003
+Actinomyces odontolyticus,Stage_0,27,0.6296296296296297,0.0015,0.0,0.01211
+Actinomyces odontolyticus,Stage_III_IV,54,0.4074074074074074,0.0,0.0,0.0049925
+Actinomyces odontolyticus,Stage_I_II,69,0.4492753623188406,0.0,0.0,0.00552

@@ -1,0 +1,9 @@
+﻿workflow,direction,transitions,decision_changes,decision_change_rate
+any_positive,0->1,1024,8,0.0078125
+any_positive,1->0,1024,8,0.0078125
+majority_dimensions,0->1,1024,280,0.2734375
+majority_dimensions,1->0,1024,280,0.2734375
+additive_score_ge_0_5,0->1,1024,280,0.2734375
+additive_score_ge_0_5,1->0,1024,280,0.2734375
+noncompensatory_all_complete,0->1,1024,8,0.0078125
+noncompensatory_all_complete,1->0,1024,8,0.0078125

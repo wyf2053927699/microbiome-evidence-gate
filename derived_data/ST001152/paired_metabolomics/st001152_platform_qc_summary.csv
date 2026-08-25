@@ -1,0 +1,4 @@
+"analysis_id","platform","raw_features","biological_samples","blanks","qc_samples","complete_all_pairs","complete_cirrhosis_pairs","features_passing_all_pair_qc","features_passing_cirrhosis_pair_qc"
+"AN001900","GCMS_positive",729,80,5,42,40,10,148,146
+"AN001901","LCMS_RP_positive",2285,77,5,23,37,10,234,234
+"AN001902","LCMS_RP_negative",592,80,5,24,40,10,233,233

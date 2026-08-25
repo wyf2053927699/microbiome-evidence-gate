@@ -1,0 +1,28 @@
+{
+  "input_count_sha256": "6010D634AD9A22F30B3331D2DFBBDD7934B52AAE54E25182D93C69C451AB46BF",
+  "input_metadata_sha256": "4C547861AEC44BE917ED2340645D6B30009FFF4C77853E878FD61C037BC6E8C8",
+  "cells": 71915,
+  "genes": 25712,
+  "pseudobulk_groups": 125,
+  "patients": 10,
+  "samples": 21,
+  "sites": [
+    "Lymph",
+    "Normal",
+    "PVTT",
+    "Tumor"
+  ],
+  "celltypes": [
+    "B",
+    "Endothelial",
+    "Fibroblast",
+    "Hepatocyte",
+    "Myeloid",
+    "T/NK"
+  ],
+  "groups_with_fewer_than_20_cells": 6,
+  "duplicate_gene_symbols": [],
+  "library_size_min": 22760,
+  "library_size_median": 1839172,
+  "library_size_max": 77427313
+}

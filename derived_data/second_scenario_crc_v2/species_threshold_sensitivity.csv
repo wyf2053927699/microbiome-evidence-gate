@@ -1,0 +1,10 @@
+﻿prevalence_discovery,discovery_fdr,discovery_candidates,heldout_reproduced,primary_hits_retained,all_primary_hits_retained,hit_list
+0.05,0.025,4,4,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas unclassified | Peptostreptococcus stomatis
+0.05,0.05,6,4,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas unclassified | Peptostreptococcus stomatis
+0.05,0.1,8,5,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas micra | Parvimonas unclassified | Peptostreptococcus stomatis
+0.1,0.025,6,4,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas unclassified | Peptostreptococcus stomatis
+0.1,0.05,6,4,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas unclassified | Peptostreptococcus stomatis
+0.1,0.1,7,5,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas micra | Parvimonas unclassified | Peptostreptococcus stomatis
+0.2,0.025,6,4,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas unclassified | Peptostreptococcus stomatis
+0.2,0.05,7,5,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas micra | Parvimonas unclassified | Peptostreptococcus stomatis
+0.2,0.1,7,5,4,True,Fusobacterium nucleatum | Gemella morbillorum | Parvimonas micra | Parvimonas unclassified | Peptostreptococcus stomatis

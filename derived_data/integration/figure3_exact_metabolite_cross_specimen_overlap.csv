@@ -1,0 +1,8 @@
+"name_key","metabolite_plasma","high_coverage","beta_group_provided_area_gee","q_group_provided_area_gee","longitudinal_promotion","metabolite_tissue","analysis_id","median_log2_difference","wilcoxon_q_eligible_family","analysis_pass","identification_tier","direction_concordant","both_fdr_promoted"
+"glucose","glucose","True",0.0952961736151839,0.832324974052491,FALSE,"glucose","AN001900",-1.73375580367261,8.94795776337591e-06,TRUE,"putative_level_2_GC_library_RI",FALSE,FALSE
+"glycerol3phosphate","glycerol 3-phosphate","True",-0.207914761143809,0.508289585042857,FALSE,"glycerol 3-phosphate","AN001902",-1.73487376895214,3.32806918358382e-05,TRUE,"putative_level_2_MS2",TRUE,FALSE
+"hypoxanthine","hypoxanthine","True",0.0627177299396857,0.90256479624304,FALSE,"hypoxanthine","AN001900",0.775256994555003,NA,FALSE,"level_1_authentic_standard",TRUE,FALSE
+"hypoxanthine","hypoxanthine","True",0.0627177299396857,0.90256479624304,FALSE,"hypoxanthine","AN001902",0.737373965904525,0.00577057016706695,TRUE,"level_1_authentic_standard",TRUE,FALSE
+"propionylcarnitine","propionylcarnitine (C3)","True",-0.114361583200493,0.842690120484897,FALSE,"propionylcarnitine","AN001901",-2.27068183165049,5.9385207718388e-06,TRUE,"putative_level_2_MS2",TRUE,FALSE
+"xanthosine","xanthosine","False",0.327335797045899,0.630909490176234,FALSE,"xanthosine","AN001902",-1.50197846923369,4.45192246849668e-05,TRUE,"level_1_authentic_standard",FALSE,FALSE
+"xanthosine","xanthosine","False",0.327335797045899,0.630909490176234,FALSE,"xanthosine","AN001900",-1.55338672441766,NA,FALSE,"level_1_authentic_standard",FALSE,FALSE

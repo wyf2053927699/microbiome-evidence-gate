@@ -1,0 +1,5 @@
+locked_feature,exact_species_match_in_Liang,Liang_table,Liang_group,Liang_LDA,Liang_p,permitted_interpretation
+Peptostreptococcus stomatis,False,,, , ,No exact species-level match in available participant-aggregated supplements
+Parvimonas unclassified,False,Table S6/20,LCC,,,Parvimonas micra is a different species and cannot validate Parvimonas unclassified
+Gemella morbillorum,False,,, , ,No exact species-level match in available participant-aggregated supplements
+Fusobacterium nucleatum,True,Table S6,RCC,1.96106200753,0.00000823144949337,Directionally concordant contextual evidence only; participant-level abundances unavailable for locked validation

@@ -1,0 +1,5 @@
+"candidate_family","rank_range_across_prespecified_schemes","score_range_across_prespecified_schemes","essential_gate_pass_all_schemes","interpretation"
+"Aromatic microbial metabolites and AHR/inflammatory signalling","2-2","0.225-0.27",0,"Exploratory ranking only; failed essential gates prohibit axis promotion"
+"Bile-acid transformation and FXR signalling","1-1","0.325-0.435",0,"Exploratory ranking only; failed essential gates prohibit axis promotion"
+"Choline/acyl-choline metabolism and immune lipid handling","3-3","0.175-0.235",0,"Exploratory ranking only; failed essential gates prohibit axis promotion"
+"Tryptophan-derived indoles and AHR signalling","4-4","0.05-0.08",0,"Exploratory ranking only; failed essential gates prohibit axis promotion"

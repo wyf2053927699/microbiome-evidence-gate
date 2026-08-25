@@ -1,0 +1,16 @@
+{
+  "generated": "2026-08-19",
+  "gutmgene_v2": {
+    "article_doi": "10.1093/nar/gkae1002",
+    "official_site": "https://bio-computing.hrbmu.edu.cn/gutmgene/",
+    "bulk_data_status": "NO-GO: official site timed out and no versioned bulk export was acquired",
+    "permitted_use": "literature-prior rows only; do not label them as gutMGene-verified"
+  },
+  "hmp2": {
+    "official_portal": "https://www.ibdmdb.org/results",
+    "bioproject": "PRJNA395569 / PRJNA398089",
+    "metadata_file": "01_raw_data\\external_provenance\\hmp2_metadata_2018-08-20.csv",
+    "metadata_sha256": "656b7bd97660ddb875548805e30bede31f2d1208293f7170d2d5755e33862ec9",
+    "pilot_status": "GO for frozen acquisition/mapping pilot; NOT YET external portability validation"
+  }
+}

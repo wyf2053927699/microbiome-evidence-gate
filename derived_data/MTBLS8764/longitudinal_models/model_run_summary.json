@@ -1,0 +1,54 @@
+[
+  {
+    "analysis": "all_pre_hcc",
+    "normalization": "provided_area",
+    "samples": 578,
+    "patients": 202,
+    "hcc_patients": 37,
+    "control_patients": 165,
+    "features_tested": 1258,
+    "models_converged": 1030,
+    "q_group_lt_0_05": 1,
+    "nominal_p_group_lt_0_05": 128,
+    "high_coverage_q_group_lt_0_05": 1
+  },
+  {
+    "analysis": "all_pre_hcc",
+    "normalization": "sample_median_scaled",
+    "samples": 578,
+    "patients": 202,
+    "hcc_patients": 37,
+    "control_patients": 165,
+    "features_tested": 1258,
+    "models_converged": 959,
+    "q_group_lt_0_05": 19,
+    "nominal_p_group_lt_0_05": 140,
+    "high_coverage_q_group_lt_0_05": 15
+  },
+  {
+    "analysis": "within_12m",
+    "normalization": "provided_area",
+    "samples": 532,
+    "patients": 188,
+    "hcc_patients": 23,
+    "control_patients": 165,
+    "features_tested": 1257,
+    "models_converged": 1015,
+    "q_group_lt_0_05": 0,
+    "nominal_p_group_lt_0_05": 114,
+    "high_coverage_q_group_lt_0_05": 0
+  },
+  {
+    "analysis": "within_12m",
+    "normalization": "sample_median_scaled",
+    "samples": 532,
+    "patients": 188,
+    "hcc_patients": 23,
+    "control_patients": 165,
+    "features_tested": 1257,
+    "models_converged": 955,
+    "q_group_lt_0_05": 6,
+    "nominal_p_group_lt_0_05": 141,
+    "high_coverage_q_group_lt_0_05": 3
+  }
+]
