@@ -2,11 +2,10 @@ cff-version: 1.2.0
 message: "If you use this software or its derived data, please cite this archived release and the associated article."
 title: "Microbiome Evidence-Gate Framework"
 type: software
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-08-25
 url: "https://github.com/wyf2053927699/microbiome-evidence-gate"
 repository-code: "https://github.com/wyf2053927699/microbiome-evidence-gate"
-doi: "10.5281/zenodo.22089531"
 license: MIT
 authors:
   - family-names: Wang

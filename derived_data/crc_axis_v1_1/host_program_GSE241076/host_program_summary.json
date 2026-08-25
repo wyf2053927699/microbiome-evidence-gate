@@ -1,0 +1,76 @@
+{
+  "accession": "GSE241076",
+  "design": "MC38 colorectal cancer cells, GCA versus control, n=3 per group",
+  "normalization": "log2(CPM+0.5)",
+  "gene_filter": "count >=10 in at least 3 samples",
+  "tested_genes": 12655,
+  "bh_q_lt_0_10": 2056,
+  "locked_program_genes_detected": [
+    "SOX14",
+    "ZDHHC9",
+    "CD274"
+  ],
+  "locked_program_difference_GCA_minus_control": 1.8221668071192623,
+  "locked_program_exact_two_sided_permutation_p": 0.1,
+  "exact_permutations": 20,
+  "mechanism_gene_summary": [
+    {
+      "gene": "SOX14",
+      "mean_logCPM_control": -0.07943111985775811,
+      "mean_logCPM_GCA": 8.731604953123478,
+      "log2FC_GCA_vs_control": 8.811036072981237,
+      "welch_t": 43.98826748793754,
+      "p_welch": 6.962325049785155e-06,
+      "q_bh": 0.014684703917505188,
+      "raw_counts_control": [
+        6,
+        9,
+        10
+      ],
+      "raw_counts_GCA": [
+        6940,
+        9087,
+        9626
+      ]
+    },
+    {
+      "gene": "ZDHHC9",
+      "mean_logCPM_control": 5.4920762180461935,
+      "mean_logCPM_GCA": 10.802543243435892,
+      "log2FC_GCA_vs_control": 5.310467025389698,
+      "welch_t": 37.37209894674074,
+      "p_welch": 3.2443922658156402e-06,
+      "q_bh": 0.012726255140452412,
+      "raw_counts_control": [
+        735,
+        859,
+        887
+      ],
+      "raw_counts_GCA": [
+        32731,
+        35220,
+        39166
+      ]
+    },
+    {
+      "gene": "CD274",
+      "mean_logCPM_control": 1.093435561397629,
+      "mean_logCPM_GCA": 8.193141588161424,
+      "log2FC_GCA_vs_control": 7.099706026763795,
+      "welch_t": 24.143561981650887,
+      "p_welch": 9.642331845740858e-05,
+      "q_bh": 0.024641267546082715,
+      "raw_counts_control": [
+        27,
+        26,
+        39
+      ],
+      "raw_counts_GCA": [
+        4214,
+        6873,
+        6829
+      ]
+    }
+  ],
+  "interpretation_boundary": "This external perturbation dataset tests a GCA-responsive host program. It does not establish that Peptostreptococcus stomatis produces GCA or that the three layers occur in the same participants."
+}

@@ -1,0 +1,659 @@
+{
+  "primary_reproduced_pairs": 96,
+  "mOTU_exact_pairs_tested": 58,
+  "mOTU_exact_q_lt_0_10": 56,
+  "crc_only_q_lt_0_10": 75,
+  "presence_q_lt_0_10": 92,
+  "strict_robust_pairs": 72,
+  "strict_pairs": [
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00041_Ala",
+      "partial_spearman_discovery": 0.2009462773964311,
+      "partial_spearman_validation": 0.2514462006144293,
+      "motu_r": 0.3141512535898989,
+      "crc_r": 0.34936310689412386,
+      "presence_r": 0.26015284593423343
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C05341_beta-Ala-Lys",
+      "partial_spearman_discovery": 0.2646139733343021,
+      "partial_spearman_validation": 0.2387967517818429,
+      "motu_r": 0.31823616719589076,
+      "crc_r": 0.38581648320165307,
+      "presence_r": 0.19439645452711377
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00576_Betaine aldehyde",
+      "partial_spearman_discovery": -0.2087424062105431,
+      "partial_spearman_validation": -0.2818078359435229,
+      "motu_r": -0.30095538429657676,
+      "crc_r": -0.2155290329604622,
+      "presence_r": -0.24676552923624756
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00114_Choline",
+      "partial_spearman_discovery": 0.2063277406703515,
+      "partial_spearman_validation": 0.1910155007620538,
+      "motu_r": 0.30217292175153204,
+      "crc_r": 0.3021240720229461,
+      "presence_r": 0.2925692379189155
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00300_Creatine",
+      "partial_spearman_discovery": 0.270624695678159,
+      "partial_spearman_validation": 0.2992263548424479,
+      "motu_r": 0.3470444814444971,
+      "crc_r": 0.356297279425526,
+      "presence_r": 0.31822764261189856
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C02678_Dodecanedioate",
+      "partial_spearman_discovery": -0.2258405586617839,
+      "partial_spearman_validation": -0.2361378640478569,
+      "motu_r": -0.4172950447331265,
+      "crc_r": -0.22677827743091414,
+      "presence_r": -0.16904698990974218
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C01425_Glu-Glu",
+      "partial_spearman_discovery": 0.3134495278974153,
+      "partial_spearman_validation": 0.1908733925947599,
+      "motu_r": 0.31528731904684837,
+      "crc_r": 0.3297270095803237,
+      "presence_r": 0.2493590193338645
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C01921_Glycocholate",
+      "partial_spearman_discovery": 0.3155859950764776,
+      "partial_spearman_validation": 0.2921285620516759,
+      "motu_r": 0.3556997362184819,
+      "crc_r": 0.43360103015410606,
+      "presence_r": 0.2432852803070805
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00407_Ile",
+      "partial_spearman_discovery": 0.2408821960092202,
+      "partial_spearman_validation": 0.2203170189394117,
+      "motu_r": 0.26952982703110717,
+      "crc_r": 0.3227567728221084,
+      "presence_r": 0.2561054850919608
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00123_Leu",
+      "partial_spearman_discovery": 0.2201280315497104,
+      "partial_spearman_validation": 0.219929233020687,
+      "motu_r": 0.25240164327090703,
+      "crc_r": 0.28872678398730883,
+      "presence_r": 0.2544342046659345
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C01042_N-Acetylaspartate",
+      "partial_spearman_discovery": -0.1731217379411796,
+      "partial_spearman_validation": -0.310404284714449,
+      "motu_r": -0.23728726888537988,
+      "crc_r": -0.2450564448474866,
+      "presence_r": -0.1314848552852227
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00624_N-Acetylglutamate",
+      "partial_spearman_discovery": -0.2950551759343765,
+      "partial_spearman_validation": -0.2812453968691802,
+      "motu_r": -0.43922281058133106,
+      "crc_r": -0.23808279861730006,
+      "presence_r": -0.2388902337091708
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C02721_N-Methylalanine",
+      "partial_spearman_discovery": -0.193704908633688,
+      "partial_spearman_validation": -0.3449923061699921,
+      "motu_r": -0.25778729917145216,
+      "crc_r": -0.26369208592706544,
+      "presence_r": -0.2563712732146016
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C01046_N-Methylglutamate",
+      "partial_spearman_discovery": -0.2564650914927901,
+      "partial_spearman_validation": -0.2517386034121768,
+      "motu_r": -0.30537853670813386,
+      "crc_r": -0.29005229920692743,
+      "presence_r": -0.2338826593126407
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00803_Valerate",
+      "partial_spearman_discovery": -0.1993473619795818,
+      "partial_spearman_validation": -0.2443988490000632,
+      "motu_r": -0.20596490454318148,
+      "crc_r": -0.2114734510640685,
+      "presence_r": -0.13122912144117474
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00079_Phe",
+      "partial_spearman_discovery": 0.196736186345974,
+      "partial_spearman_validation": 0.2721669463585174,
+      "motu_r": 0.33223422121422086,
+      "crc_r": 0.31451933694615913,
+      "presence_r": 0.29541945476044523
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C02656_Pimelate",
+      "partial_spearman_discovery": -0.3419838060259007,
+      "partial_spearman_validation": -0.2132174516660445,
+      "motu_r": -0.3684389391370558,
+      "crc_r": -0.23172259168499282,
+      "presence_r": -0.20703079336174196
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00647_Pyridoxamine 5'-phosphate",
+      "partial_spearman_discovery": -0.1787202565770299,
+      "partial_spearman_validation": -0.2544065832378167,
+      "motu_r": -0.23675183702878283,
+      "crc_r": -0.2886981911966829,
+      "presence_r": -0.18397800233021983
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C08277_Sebacate",
+      "partial_spearman_discovery": -0.3679011813631206,
+      "partial_spearman_validation": -0.1730849184157903,
+      "motu_r": -0.422373271023825,
+      "crc_r": -0.18921994374421336,
+      "presence_r": -0.22916700502270693
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00042_Succinate",
+      "partial_spearman_discovery": 0.1753027971904856,
+      "partial_spearman_validation": 0.3900952042394774,
+      "motu_r": 0.32491530438364613,
+      "crc_r": 0.35433950411063336,
+      "presence_r": 0.26196797155348595
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C05122_Taurocholate",
+      "partial_spearman_discovery": 0.280018240274747,
+      "partial_spearman_validation": 0.3130609881847995,
+      "motu_r": 0.36744398899749214,
+      "crc_r": 0.4066252934148267,
+      "presence_r": 0.31998572151792826
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00078_Trp",
+      "partial_spearman_discovery": 0.1807613346310865,
+      "partial_spearman_validation": 0.1943280135190757,
+      "motu_r": 0.23525117015960118,
+      "crc_r": 0.30249573744438274,
+      "presence_r": 0.19831486415901903
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00183_Val",
+      "partial_spearman_discovery": 0.1930387770612461,
+      "partial_spearman_validation": 0.2049060511575129,
+      "motu_r": 0.2792996944014341,
+      "crc_r": 0.30607476725190835,
+      "presence_r": 0.26204921794329517
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C03283_2,4-Diaminobutyrate",
+      "partial_spearman_discovery": -0.198990422912865,
+      "partial_spearman_validation": -0.1757229525443334,
+      "motu_r": -0.3489886185024372,
+      "crc_r": -0.2763119269635377,
+      "presence_r": -0.15838419622081268
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C03264_2-Hydroxy-4-methylpentanoate",
+      "partial_spearman_discovery": 0.3647897758506545,
+      "partial_spearman_validation": 0.2795023487321501,
+      "motu_r": 0.3786729859490504,
+      "crc_r": 0.37450927211985563,
+      "presence_r": 0.2415990966887863
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C05984_2-Hydroxybutyrate",
+      "partial_spearman_discovery": 0.2308530607587275,
+      "partial_spearman_validation": 0.2746720663991198,
+      "motu_r": 0.3734728358667418,
+      "crc_r": 0.3480716219969164,
+      "presence_r": 0.28360576142269595
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "2-Hydroxypentanoate",
+      "partial_spearman_discovery": 0.159466012641772,
+      "partial_spearman_validation": 0.2873021409041807,
+      "motu_r": 0.3736871259736467,
+      "crc_r": 0.3719461492781012,
+      "presence_r": 0.11237177970900629
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C01089_3-Hydroxybutyrate",
+      "partial_spearman_discovery": 0.2353078863365991,
+      "partial_spearman_validation": 0.2051399158119463,
+      "motu_r": 0.2912750075254894,
+      "crc_r": 0.21629941600489627,
+      "presence_r": 0.25674193520929306
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00431_5-Aminovalerate",
+      "partial_spearman_discovery": 0.2265657603633351,
+      "partial_spearman_validation": 0.2243284655214971,
+      "motu_r": 0.35396022674272193,
+      "crc_r": 0.31922037473479353,
+      "presence_r": 0.28646676590912323
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C06104_Adipate",
+      "partial_spearman_discovery": -0.2567059061532915,
+      "partial_spearman_validation": -0.2310824162763397,
+      "motu_r": -0.23162279142445727,
+      "crc_r": -0.17422579967007176,
+      "presence_r": -0.1515859096128563
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C00300_Creatine",
+      "partial_spearman_discovery": 0.1823316063250684,
+      "partial_spearman_validation": 0.2505586614137663,
+      "motu_r": 0.3475405765202527,
+      "crc_r": 0.2653996494758782,
+      "presence_r": 0.2929785199363103
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C02678_Dodecanedioate",
+      "partial_spearman_discovery": -0.2101498344248384,
+      "partial_spearman_validation": -0.2791396750352345,
+      "motu_r": -0.44447913698205305,
+      "crc_r": -0.21736572190619888,
+      "presence_r": -0.195674340155706
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C00122_Fumarate",
+      "partial_spearman_discovery": 0.2152636343345106,
+      "partial_spearman_validation": 0.3139181366226398,
+      "motu_r": 0.19541959197010256,
+      "crc_r": 0.1572004260260208,
+      "presence_r": 0.26076530986854085
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C01921_Glycocholate",
+      "partial_spearman_discovery": 0.1638441490828964,
+      "partial_spearman_validation": 0.2297578111089446,
+      "motu_r": 0.3114455900066516,
+      "crc_r": 0.21905716434410485,
+      "presence_r": 0.19914953119830833
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C01042_N-Acetylaspartate",
+      "partial_spearman_discovery": -0.1750639202913123,
+      "partial_spearman_validation": -0.237493953241669,
+      "motu_r": -0.2536325512798293,
+      "crc_r": -0.18015357271512947,
+      "presence_r": -0.10049519775126427
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C02656_Pimelate",
+      "partial_spearman_discovery": -0.265615683778058,
+      "partial_spearman_validation": -0.1757194135726657,
+      "motu_r": -0.34860426342781203,
+      "crc_r": -0.20950317880576208,
+      "presence_r": -0.15524576466555112
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C00250_Pyridoxal",
+      "partial_spearman_discovery": -0.1834191186489806,
+      "partial_spearman_validation": -0.2061324462278611,
+      "motu_r": -0.2365646371443566,
+      "crc_r": -0.26983550887217345,
+      "presence_r": -0.13306350785749416
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C00042_Succinate",
+      "partial_spearman_discovery": 0.2092248357610088,
+      "partial_spearman_validation": 0.1772062777733949,
+      "motu_r": 0.2910329817373954,
+      "crc_r": 0.2196625247181387,
+      "presence_r": 0.22521096780793434
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C05122_Taurocholate",
+      "partial_spearman_discovery": 0.1955798356957311,
+      "partial_spearman_validation": 0.2078694015593336,
+      "motu_r": 0.3719046244048963,
+      "crc_r": 0.2663702609768537,
+      "presence_r": 0.27007448856131994
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C00378_Thiamine",
+      "partial_spearman_discovery": -0.2506743856451521,
+      "partial_spearman_validation": -0.1853025554245727,
+      "motu_r": -0.2316071142192137,
+      "crc_r": -0.3879046636759153,
+      "presence_r": -0.10854117751733525
+    },
+    {
+      "species": "Gemella morbillorum",
+      "metabolite": "C00431_5-Aminovalerate",
+      "partial_spearman_discovery": 0.1599462700535694,
+      "partial_spearman_validation": 0.1830810575202645,
+      "motu_r": 0.3366390672243004,
+      "crc_r": 0.28477860875189814,
+      "presence_r": 0.2577862489121067
+    },
+    {
+      "species": "Fusobacterium nucleatum",
+      "metabolite": "C00294_Inosine",
+      "partial_spearman_discovery": -0.2393222545883513,
+      "partial_spearman_validation": -0.2776012232949531,
+      "motu_r": -0.18924280580886235,
+      "crc_r": -0.17065221812701153,
+      "presence_r": -0.14588909743384132
+    },
+    {
+      "species": "Fusobacterium nucleatum",
+      "metabolite": "C00398_Tryptamine",
+      "partial_spearman_discovery": 0.1870355317708722,
+      "partial_spearman_validation": 0.23313621909498,
+      "motu_r": 0.45883904891782373,
+      "crc_r": 0.2974873804358726,
+      "presence_r": 0.1555501505788689
+    },
+    {
+      "species": "Fusobacterium nucleatum",
+      "metabolite": "C00986_1,3-Diaminopropane",
+      "partial_spearman_discovery": 0.1701690156409475,
+      "partial_spearman_validation": 0.3012355200671417,
+      "motu_r": 0.18035653217851186,
+      "crc_r": 0.31637789300198205,
+      "presence_r": 0.292895103200421
+    },
+    {
+      "species": "Fusobacterium nucleatum",
+      "metabolite": "C03264_2-Hydroxy-4-methylpentanoate",
+      "partial_spearman_discovery": 0.2104524970493734,
+      "partial_spearman_validation": 0.2163448595138947,
+      "motu_r": 0.2689329879608546,
+      "crc_r": 0.19110647820561447,
+      "presence_r": 0.156397058079956
+    },
+    {
+      "species": "Fusobacterium nucleatum",
+      "metabolite": "C06057_3-Aminopropane-1,2-diol",
+      "partial_spearman_discovery": 0.1881919786307666,
+      "partial_spearman_validation": 0.3713454788196574,
+      "motu_r": 0.31850006626550725,
+      "crc_r": 0.36691202479983154,
+      "presence_r": 0.13006429052265298
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C04677_AICAR",
+      "partial_spearman_discovery": 0.1603497614260002,
+      "partial_spearman_validation": 0.1743132803675646,
+      "motu_r": 0.06163671491585908,
+      "crc_r": 0.22528095800999268,
+      "presence_r": 0.1460184659448242
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00576_Betaine aldehyde",
+      "partial_spearman_discovery": -0.3426368335557652,
+      "partial_spearman_validation": -0.2859379053327465,
+      "motu_r": -0.30128180522422576,
+      "crc_r": -0.20658645618450328,
+      "presence_r": -0.23937505844292598
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C02256_Castanospermine",
+      "partial_spearman_discovery": -0.1732136282944021,
+      "partial_spearman_validation": -0.1737687643165286,
+      "motu_r": -0.14830460897298342,
+      "crc_r": -0.17048028999756581,
+      "presence_r": -0.12694875340078463
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00300_Creatine",
+      "partial_spearman_discovery": 0.282379904989281,
+      "partial_spearman_validation": 0.3008558997639473,
+      "motu_r": 0.2909662140104691,
+      "crc_r": 0.1562279326510826,
+      "presence_r": 0.30633579473594863
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00491_Cystine",
+      "partial_spearman_discovery": 0.2098382910109666,
+      "partial_spearman_validation": 0.3684435302165486,
+      "motu_r": 0.2734591733153223,
+      "crc_r": 0.24238430838033556,
+      "presence_r": 0.3617660156831089
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C02678_Dodecanedioate",
+      "partial_spearman_discovery": -0.2448909582015458,
+      "partial_spearman_validation": -0.2403652736394128,
+      "motu_r": -0.34808381071588773,
+      "crc_r": -0.16307574624312413,
+      "presence_r": -0.1730095181047307
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00025_Glu",
+      "partial_spearman_discovery": -0.2142633061968375,
+      "partial_spearman_validation": -0.3586077194369818,
+      "motu_r": -0.25028210009494134,
+      "crc_r": -0.2721470175527298,
+      "presence_r": -0.21859942813499658
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00191_Glucuronate",
+      "partial_spearman_discovery": 0.1845283932210782,
+      "partial_spearman_validation": 0.3214394033175701,
+      "motu_r": 0.22274699052667682,
+      "crc_r": 0.1560093718896049,
+      "presence_r": 0.28153487422259316
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C01425_Glu-Glu",
+      "partial_spearman_discovery": 0.2422526507401242,
+      "partial_spearman_validation": 0.2851630816874721,
+      "motu_r": 0.21051328076113113,
+      "crc_r": 0.2099007356106827,
+      "presence_r": 0.22470891746587127
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00037_Gly",
+      "partial_spearman_discovery": 0.1702305021004544,
+      "partial_spearman_validation": 0.2065697583486857,
+      "motu_r": 0.18978716921348746,
+      "crc_r": 0.14669069639673923,
+      "presence_r": 0.30206953845128126
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C01921_Glycocholate",
+      "partial_spearman_discovery": 0.2069209321718301,
+      "partial_spearman_validation": 0.2475152582166068,
+      "motu_r": 0.1972950569332781,
+      "crc_r": 0.20333056380666745,
+      "presence_r": 0.15133442642219264
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00407_Ile",
+      "partial_spearman_discovery": 0.2220742199904398,
+      "partial_spearman_validation": 0.2953364351571484,
+      "motu_r": 0.20764437410374892,
+      "crc_r": 0.15926350374989323,
+      "presence_r": 0.26722411617098185
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00123_Leu",
+      "partial_spearman_discovery": 0.1860492053823609,
+      "partial_spearman_validation": 0.276457624186407,
+      "motu_r": 0.2087272258232933,
+      "crc_r": 0.166597650691841,
+      "presence_r": 0.2664733988323051
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C01042_N-Acetylaspartate",
+      "partial_spearman_discovery": -0.1939345623502841,
+      "partial_spearman_validation": -0.3250646814181243,
+      "motu_r": -0.2587428770201697,
+      "crc_r": -0.2264291892839629,
+      "presence_r": -0.15554023980052778
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00624_N-Acetylglutamate",
+      "partial_spearman_discovery": -0.3269450781280779,
+      "partial_spearman_validation": -0.3732017735591673,
+      "motu_r": -0.42112423135138005,
+      "crc_r": -0.23017677536645983,
+      "presence_r": -0.3026472453779083
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C02721_N-Methylalanine",
+      "partial_spearman_discovery": -0.2082634197961911,
+      "partial_spearman_validation": -0.4484233867377807,
+      "motu_r": -0.2427942037782717,
+      "crc_r": -0.22492095319738103,
+      "presence_r": -0.30226825272659524
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C04137_Octopine",
+      "partial_spearman_discovery": 0.3029207587401772,
+      "partial_spearman_validation": 0.2588655875293258,
+      "motu_r": 0.15980740207937824,
+      "crc_r": 0.21267553136723313,
+      "presence_r": 0.25879633907168176
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00079_Phe",
+      "partial_spearman_discovery": 0.1782840947865764,
+      "partial_spearman_validation": 0.2967182361935128,
+      "motu_r": 0.2863149327848031,
+      "crc_r": 0.2007359186581309,
+      "presence_r": 0.3054138545654291
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00408_Pipecolate",
+      "partial_spearman_discovery": -0.1748439345836182,
+      "partial_spearman_validation": -0.3118269417208089,
+      "motu_r": -0.12193124778364828,
+      "crc_r": -0.17362274806193967,
+      "presence_r": -0.26866063276184204
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00042_Succinate",
+      "partial_spearman_discovery": 0.2686122149456284,
+      "partial_spearman_validation": 0.33530099186108,
+      "motu_r": 0.30152906561113785,
+      "crc_r": 0.25163634007010055,
+      "presence_r": 0.2360386003300922
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C05122_Taurocholate",
+      "partial_spearman_discovery": 0.3080001849767089,
+      "partial_spearman_validation": 0.3173360872426221,
+      "motu_r": 0.26794969827141796,
+      "crc_r": 0.2071051672401895,
+      "presence_r": 0.275896268349527
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C00183_Val",
+      "partial_spearman_discovery": 0.2096555515473337,
+      "partial_spearman_validation": 0.278718154422697,
+      "motu_r": 0.23278985953849343,
+      "crc_r": 0.15536525034374643,
+      "presence_r": 0.3003480842262796
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C03283_2,4-Diaminobutyrate",
+      "partial_spearman_discovery": -0.2250592975311087,
+      "partial_spearman_validation": -0.2062247691169435,
+      "motu_r": -0.3144025064792272,
+      "crc_r": -0.18765288629158638,
+      "presence_r": -0.1693664317868895
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C03264_2-Hydroxy-4-methylpentanoate",
+      "partial_spearman_discovery": 0.2453954274101123,
+      "partial_spearman_validation": 0.2790460339808921,
+      "motu_r": 0.2959369335288688,
+      "crc_r": 0.29393075178003364,
+      "presence_r": 0.23270178220942753
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "2-Hydroxypentanoate",
+      "partial_spearman_discovery": 0.1916878648379572,
+      "partial_spearman_validation": 0.3020698321891336,
+      "motu_r": 0.2683143660582278,
+      "crc_r": 0.2261882714990827,
+      "presence_r": 0.16107952060171543
+    },
+    {
+      "species": "Parvimonas unclassified",
+      "metabolite": "C03592_5-Methyl-2'-deoxycytidine",
+      "partial_spearman_discovery": -0.1843047992033984,
+      "partial_spearman_validation": -0.2415607530057835,
+      "motu_r": -0.2166788341143451,
+      "crc_r": -0.18279589134887378,
+      "presence_r": -0.1509223965882541
+    }
+  ],
+  "parvimonas_boundary": "mOTU uses P. micra only as near-neighbour sensitivity; it is not exact validation of Parvimonas unclassified."
+}

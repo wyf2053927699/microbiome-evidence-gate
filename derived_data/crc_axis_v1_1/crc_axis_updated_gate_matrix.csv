@@ -1,0 +1,4 @@
+candidate_family,microbial_reproducibility,human_metabolite_observed,microbe_metabolite_link,metabolite_host_perturbation,host_reproduced_two_datasets,single_cell_localisation,major_contradiction_resolved,robust_to_analytic_choices,complete_dimensions,partial_dimensions,noncompensatory_all_complete,claim_class
+P. stomatis-associated glycocholate host-response axis,1,1,1,1,0.5,0,0,1,5,1,0,TRIANGULATED CANDIDATE
+F. nucleatum-associated 3-aminopropane-1,2-diol axis,1,1,1,0,0,0,0,1,4,0,0,MICROBE-METABOLITE COMPONENT
+HCC leading candidate families,0,1,0,0.5,1,0.5,0,0.5,2,3,0,HYPOTHESIS ONLY

@@ -1,0 +1,33 @@
+{
+  "library_sizes": {
+    "con_1": 19110987,
+    "con_2": 18057453,
+    "con_3": 18410261,
+    "fa_1": 20531612,
+    "fa_2": 19826305,
+    "fa_3": 19484569
+  },
+  "filtered_genes": 12655,
+  "median_within_group_correlation": 0.9914647613395354,
+  "median_between_group_correlation": 0.9661719041544148,
+  "pc1_variance_fraction": 0.6486381589150106,
+  "pc2_variance_fraction": 0.20831422598014226,
+  "counts_FPKM_mechanism_concordance": [
+    {
+      "gene": "SOX14",
+      "counts_logCPM_log2FC": 8.811036072981237,
+      "FPKM_log2FC": 8.188991103187636
+    },
+    {
+      "gene": "ZDHHC9",
+      "counts_logCPM_log2FC": 5.310467025389698,
+      "FPKM_log2FC": 5.243505888106231
+    },
+    {
+      "gene": "CD274",
+      "counts_logCPM_log2FC": 7.099706026763795,
+      "FPKM_log2FC": 6.385363547843202
+    }
+  ],
+  "quality_boundary": "Strong condition separation is compatible with a large perturbation response but cannot distinguish treatment from an unrecorded batch because condition and batch are not independently represented."
+}

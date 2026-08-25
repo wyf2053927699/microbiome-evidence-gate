@@ -1,0 +1,68 @@
+{
+  "input_strict_robust_pairs": 72,
+  "independent_crc_candidates": 6,
+  "crc_preferential_exploratory": 6,
+  "top_crc_preferential": [
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C05341_beta-Ala-Lys",
+      "beta_joint_all": 0.287012477675912,
+      "q_joint_all": 0.020404705085187998,
+      "beta_joint_crc": 0.6338782337458638,
+      "q_joint_crc": 0.03497570273087788,
+      "beta_joint_healthy": -0.017525133602430465,
+      "q_joint_healthy": 0.9760906624780601
+    },
+    {
+      "species": "Fusobacterium nucleatum",
+      "metabolite": "C06057_3-Aminopropane-1,2-diol",
+      "beta_joint_all": 0.3077650339276028,
+      "q_joint_all": 0.003981487508287715,
+      "beta_joint_crc": 0.4572205963396951,
+      "q_joint_crc": 0.05115284568118448,
+      "beta_joint_healthy": 0.12692878132279217,
+      "q_joint_healthy": 0.5805489994308757
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C01921_Glycocholate",
+      "beta_joint_all": 0.2813421111201305,
+      "q_joint_all": 0.020404705085187998,
+      "beta_joint_crc": 0.4845475696892463,
+      "q_joint_crc": 0.05115284568118448,
+      "beta_joint_healthy": 0.05472920550540472,
+      "q_joint_healthy": 0.8791460303600744
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00041_Ala",
+      "beta_joint_all": 0.23281698066052503,
+      "q_joint_all": 0.08785602431030304,
+      "beta_joint_crc": 0.5695607422843991,
+      "q_joint_crc": 0.05115284568118448,
+      "beta_joint_healthy": 0.08391911498602278,
+      "q_joint_healthy": 0.7762436813858699
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C05984_2-Hydroxybutyrate",
+      "beta_joint_all": 0.24205441147377732,
+      "q_joint_all": 0.020806477420980112,
+      "beta_joint_crc": 0.4340637069100448,
+      "q_joint_crc": 0.08084274992619507,
+      "beta_joint_healthy": -0.07155227834315903,
+      "q_joint_healthy": 0.7520191136908518
+    },
+    {
+      "species": "Peptostreptococcus stomatis",
+      "metabolite": "C00647_Pyridoxamine 5'-phosphate",
+      "beta_joint_all": -0.21312432281463872,
+      "q_joint_all": 0.0680220802575094,
+      "beta_joint_crc": -0.4379972036615445,
+      "q_joint_crc": 0.09079444469973573,
+      "beta_joint_healthy": 0.022744950472235348,
+      "q_joint_healthy": 0.9760906624780601
+    }
+  ],
+  "interpretation_boundary": "Joint-species and CRC-preferential filters are post-validation attribution and prioritization audits, not new confirmatory gates; coefficients remain observational associations."
+}
