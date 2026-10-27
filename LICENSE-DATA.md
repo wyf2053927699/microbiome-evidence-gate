@@ -8,5 +8,6 @@ https://creativecommons.org/licenses/by/4.0/
 
 The MIT `LICENSE` applies to source code and software documentation.
 
-This licence does not apply to third-party raw data, database exports, article supplements, literature records or repository files listed only by accession or checksum. Those materials remain governed by their original owners' terms and are not redistributed here.
+This licence does not apply to third-party raw data, database exports, article supplements, literature records or repository files listed only by accession or checksum. Those materials remain governed by their original owners' terms and retain their original reuse conditions. Public analysis-ready source inputs supplied in this revision package are explicitly attributed in README.md and are excluded from the author-generated data licence.
+
 
