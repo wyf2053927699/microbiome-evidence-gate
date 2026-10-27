@@ -14,6 +14,8 @@ The package includes corrected numeric covariate encoding, rank-adjusted residua
 
 See [RELEASE_NOTES_v1.2.0.md](RELEASE_NOTES_v1.2.0.md) for the version history.
 
+Version-specific archive for v1.2.0: https://doi.org/10.5281/zenodo.23682888 .
+
 ## Historical workflow and archives
 
 The original August workflow remains under the immutable v1.1.0 tag and its [version-specific Zenodo archive](https://doi.org/10.5281/zenodo.22092200). The [version-series DOI](https://doi.org/10.5281/zenodo.22089530) identifies the release series. Version v1.0.0 remains at https://doi.org/10.5281/zenodo.22089531. The August archived version predates the October corrections and is not the reference for the revised analyses.
@@ -23,3 +25,4 @@ Historical directories include analysis_scripts, derived_data, metadata, docs, a
 ## Data and licensing
 
 Code is licensed under MIT; author-generated derived data are licensed under CC BY 4.0. Public analysis-ready source inputs in the October package are attributed in its README and retain the original source reuse conditions. Third-party material is excluded from the author-generated data licence. Original upstream processing is documented in the archived workflow and source repositories; the October package reproduces revision analyses from supplied source or analysis-ready tables.
+
