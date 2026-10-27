@@ -1,53 +1,25 @@
 # Microbiome Evidence-Gate Framework
 
-Version 1.1.0 supporting the candidate manuscript **“Evidence-gated microbiome data integration identifies a triangulated colorectal cancer taxon-glycocholate-host response axis.”**
+## October revision v1.2.0
 
-This repository separates three claims that should not be conflated:
+The October revision code and analysis-ready inputs are supplied in [microbiome-evidence-gate-v1.2.0.zip](microbiome-evidence-gate-v1.2.0.zip). This standalone package is the reference for the revised manuscript results. The earlier directories preserve the August workflow.
 
-1. **Biological component evidence**: layer-specific results in public HCC/cirrhosis and CRC datasets.
-2. **Framework behaviour**: exhaustive state-space, one-bit transition and coding-error benchmarks.
-3. **External biological transportability**: bounded, not universal. The CRC extension combines a paired participant-level taxon-metabolite analysis with an external GCA perturbation transcriptome, but does not establish microbial glycocholate production, same-participant mediation or causality.
+Verify [SHA256SUMS.txt](SHA256SUMS.txt), extract the ZIP, install its requirements.txt and the listed R dependencies, and run from the extracted package root:
 
-## Repository structure
-
-- `verified_release/`: path-independent, clean-room-tested runner for the leakage-controlled CRC analysis, whole-atlas donor pseudobulk and framework boundary benchmark.
-- `analysis_scripts/`: analysis and figure-generation scripts used during manuscript development.
-- `derived_data/`: author-generated summary tables and figure-source data; no third-party raw data are redistributed.
-- `metadata/`: dataset registry and release file manifest.
-- `docs/`: licences, third-party data restrictions and claim boundaries.
-
-## Version 1.1.0 extension
-
-This release adds a deterministic discovery/held-out analysis of 347 paired metagenome-metabolome profiles, alternative-profiler and disease-stratified sensitivity analyses, joint adjustment for four locked CRC taxa, and an external GSE241076 glycocholic-acid host-response audit. Source scripts for Figure 7, Figure 8 and Supplementary Figure 4 are included. The author-generated outputs are under `derived_data/crc_axis_v1_1/`.
-
-The permitted positive claim is a **triangulated candidate axis** linking *Peptostreptococcus stomatis* abundance, glycocholate and a GCA-responsive SOX14-ZDHHC9-CD274 programme. It is not evidence that *P. stomatis* produces glycocholate and is not a same-participant causal mechanism.
-
-The five Python analyses use `MICROBIOME_GATE_ROOT` when set and otherwise treat the repository root as the project root. Third-party inputs must be placed under `01_raw_data/crc_axis_external/` as described in `docs/THIRD_PARTY_DATA.md`; they are not included in this repository.
-
-## Verified reproduction
-
-Requirements: PowerShell 7, Python 3.12 or later, and the pinned packages in `verified_release/requirements.txt`.
-
-1. Download the three source files listed in `verified_release/INPUT_MANIFEST.csv` from their original repositories or publisher pages.
-2. Place them at the exact relative paths specified in that manifest.
-3. Run:
-
-```powershell
-pwsh -File ./verified_release/run_release.ps1
+```sh
+python -B -X utf8 run_revision.py --rscript Rscript
 ```
 
-The runner verifies every input SHA-256 before analysis and writes `RUN_SHA256.csv` for generated outputs. The frozen clean-room audit reproduced 23 of 23 canonical output hashes.
+The package includes corrected numeric covariate encoding, rank-adjusted residual-correlation inference, rerun selection and BH procedures, unified-partition sensitivity with global BH, deposited-count TMM/limma-voom analysis, independent-rating checks, target-panel provenance, and figure source workflows. Its README identifies inputs, commands, dependencies and output roles. INDEPENDENT_REPRODUCTION_20261027.json records successful comparisons of ten regenerated key tables and independent-rating/global-BH verification.
 
-## Data availability and redistribution
+See [RELEASE_NOTES_v1.2.0.md](RELEASE_NOTES_v1.2.0.md) for the version history.
 
-Public third-party source data are not included. Their accession numbers and roles are recorded in `metadata/DATASET_REGISTRY.csv`. Users must obtain those files from the original repositories and comply with the original terms. Author-generated derived tables in `derived_data/` are released under CC BY 4.0; code is released under the MIT License.
+## Historical workflow and archives
 
-## Citation
+The original August workflow remains under the immutable v1.1.0 tag and its [version-specific Zenodo archive](https://doi.org/10.5281/zenodo.22092200). The [version-series DOI](https://doi.org/10.5281/zenodo.22089530) identifies the release series. Version v1.0.0 remains at https://doi.org/10.5281/zenodo.22089531. The August archived version predates the October corrections and is not the reference for the revised analyses.
 
-Citation metadata are provided in `CITATION.cff`. Version 1.1.0 is archived at https://doi.org/10.5281/zenodo.22092200; the repository-wide concept DOI is https://doi.org/10.5281/zenodo.22089530. Version 1.0.0 remains archived at https://doi.org/10.5281/zenodo.22089531.
+Historical directories include analysis_scripts, derived_data, metadata, docs, and verified_release. Their original runners and outputs retain their historical scope. Use the standalone v1.2.0 package for the October revision.
 
-## Status
+## Data and licensing
 
-- `v1.0.0`: released on 25 August 2026 and permanently archived at https://doi.org/10.5281/zenodo.22089531.
-- `v1.1.0`: adds the paired CRC taxon-metabolite analysis, external GCA host response, updated benchmark visualisation and bounded positive claim; archived at https://doi.org/10.5281/zenodo.22092200.
-
+Code is licensed under MIT; author-generated derived data are licensed under CC BY 4.0. Public analysis-ready source inputs in the October package are attributed in its README and retain the original source reuse conditions. Third-party material is excluded from the author-generated data licence. Original upstream processing is documented in the archived workflow and source repositories; the October package reproduces revision analyses from supplied source or analysis-ready tables.
